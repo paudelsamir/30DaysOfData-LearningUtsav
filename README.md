@@ -11,10 +11,10 @@ I am participating in the **Learning Utsav**, powered by Kantipur Engineering Co
 Join me in making this festive season a **Festival of Learning**!  
 You can also participate by scanning the QR code below to register and start your own learning journey.
 
-![Learning Utsav QR Code](link-to-qr-code.png)
+![Learning Utsav QR Code](image.png)
 
 Feel free to follow my journey on Twitter as well:  
-Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)  
+Twitter: [@samirpaudel_](https://twitter.com/samirpaudel_)  
 
 Happy Learning!  
 #LearningUtsav #FestivalOfLearning #DashainTihar #LearningDays
