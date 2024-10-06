@@ -11,7 +11,7 @@
 - [Matplotlib Official Documentation](https://matplotlib.org/stable/contents.html)
 
 ### Tasks Completed:
-- Practiced array manipulations with NumPy.
+- Practiced [array manipulations](src/numpy_practice.ipynb) with NumPy.
 - Performed [basic data manipulations](src/pandas_practice.ipynb) using Pandas.
 - [Visualized data](src/matplotlib_practice.ipynb) using Matplotlib.
 
