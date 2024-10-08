@@ -1,4 +1,4 @@
-### **Day 4: 100 Pandas Puzzle Basics **
+### Day 4: 100 Pandas Puzzle Basics 
 
 **Topics Covered:**
 Practiced Dataframes Basics.
