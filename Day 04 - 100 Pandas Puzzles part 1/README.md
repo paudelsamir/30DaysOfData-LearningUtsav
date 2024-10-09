@@ -17,7 +17,3 @@
 
 1. [Completed over 20 Basic pandas puzzles](/Day%2004%20-%20100%20Pandas%20Puzzles/100-pandas-puzzles.ipynb) 
 
-**Topics for Tomorrow** :
-
-- **Minesweeper Challenge**: Creating a Minesweeper grid using DataFrames.
-- **Plotting**: Visualizing data trends with matplotlib.
