@@ -17,7 +17,7 @@
 
 1. [Completed over 30 Intermediate/Advanced Pandas Puzzles](/Day%2005%20-%20100%20Pandas%20Puzzles%20part%202/100-pandas-puzzles.ipynb)
 
-**Topics for Tomorrow** :
+**Topics to be covered from the challenge** :
 
 - **Minesweeper Challenge**: Creating a Minesweeper grid using DataFrames.
 - **Plotting**: Visualizing data trends with matplotlib.
