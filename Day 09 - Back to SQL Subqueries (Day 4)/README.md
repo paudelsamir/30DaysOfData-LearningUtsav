@@ -1,4 +1,4 @@
-# Day 8: Revisit of SQL (Day 3)
+# Day 8: Revisit of SQL (Day 4)
 
 ## Topics Covered:
 #### Module 5: Subqueries / Complex Queries
