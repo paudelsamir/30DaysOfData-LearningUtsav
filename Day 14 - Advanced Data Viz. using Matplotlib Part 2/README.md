@@ -1,5 +1,5 @@
 
-# Day 13: Matplotlib Basics
+# Day 14: Matplotlib Advanced
 
 ## Topics Covered
 1. Multiple Subplots
