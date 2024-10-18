@@ -18,4 +18,4 @@
 - [GitHub Repository by ds-teja](https://github.com/ds-teja/100_Days_MLDL)
 
 ## Tasks Completed
-Multiple subplots, annotations, area fills, time series, and 3D plots.
+Explored Multiple subplots, annotations, area fills, time series, and 3D plots.
