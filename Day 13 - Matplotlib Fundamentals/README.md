@@ -1,22 +1,27 @@
 
-## **DAY 5 (23 Sept 2023):**
-### Topic: Advanced Matplotlib Topics Revision
+# Day 13: Matplotlib Basics:
 
-1. Multiple Subplots
-   - 1.1 Creating Multiple Plots in a Single Figure
-   - 1.2 Combining Different Types of Plots
-2. Advanced Features
-   - 2.1 Adding annotations and text
-   - 2.2 Fill the Area Between Plots
-   - 2.3 Plotting Time Series Data
-   - 2.4 Creating 3D Plots
-   - 2.5 Live Plot - Incorporating Animations and Interactivity.
+## Topics Covered
+1. Basic Plotting
+   - 1.1 Creating Simple Line Plots
+   - 1.2 Customization options for labels, colors, and styles.
+   - 1.3 Saving Matplotlib plots as image files
+2. Plot Types
+   - 2.1 Bar Chart
+   - 2.2 Histograms
+   - 2.3 Scatter plots
+   - 2.4 Pie Charts
+   - 2.5 Box Plot (Box and Whisker Plot)
+   - 2.6 Heatmap, and Displaying Images
+   - 2.7 Stack Plot
+## Advanced Resources
+- [Medium Article: Mastering Maplotlib- A Comprehensive Guide to Data Visualization](https://medium.com/towards-artificial-intelligence/mastering-maplotlib-a-comprehensive-guide-to-data-visualization-e60bebecb267)
+- [Documentation](https://matplotlib.org/stable/index.html)
+- [Github Reposiitory by ds-teja](https://github.com/ds-teja/100_Days_MLDL)
 
-Detailed Medium Article: [Advanced Maplotlib: A Comprehensive Guide to Data Visualization](https://medium.com/datadriveninvestor/advanced-maplotlib-a-comprehensive-guide-to-data-visualization-a2263c863492)
+## Tasks Completed
+Completed basic plotting with bar charts, histograms, scatter plots, pie charts, and more.
 
-LinkedIn post: [Day 5 Update](https://www.linkedin.com/feed/update/urn:li:activity:7111610747989749761?utm_source=share&utm_medium=member_desktop)
-
-LeetCode Problem Solved: 
-  1. [Customers Who Never Order](https://leetcode.com/submissions/detail/1056834216/)
-
----
+## Further Research
+- multiple subplots
+- advanced features
