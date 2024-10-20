@@ -20,4 +20,6 @@
 
 [Seaborn Docs](https://seaborn.pydata.org/tutorial.html)
 ## Tasks Completed
+ Learned and Practiced Various Bivariate and Multivariate plotting techniques using Seaborn. Also Visualized Heat Map and Cluster Map  
+
 
