@@ -1,4 +1,4 @@
-# Day 13: Matplotlib Basics:
+# Day 13: Seaborn Basics:
 
 ## Topics Covered
 1. Categorical Plots
