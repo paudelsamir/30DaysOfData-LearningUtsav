@@ -1,4 +1,4 @@
-# Day 13: Seaborn Complete:
+# Day 16: Seaborn Complete:
 
 ## Topics Covered
 1. Bivariate Plots

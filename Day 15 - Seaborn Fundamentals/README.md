@@ -1,4 +1,4 @@
-# Day 13: Seaborn Basics:
+# Day 15: Seaborn Basics:
 
 ## Topics Covered
 1. Categorical Plots
