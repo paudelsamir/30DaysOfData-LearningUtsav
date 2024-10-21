@@ -1,4 +1,4 @@
-# Learning Utsav - 30 Days of Machine Learning
+# Learning Utsav - 30 Days of Learning
 
 I am participating in Learning Utsav, organized by Kantipur Engineering College, Dhapakhel, turning my Dashain/Tihar celebrations into a period of growth and learning. Over the next 30 days, I will be focusing on mastering the basics of Machine Learning and documenting my progress, challenges, and achievements right here on GitHub.
 
