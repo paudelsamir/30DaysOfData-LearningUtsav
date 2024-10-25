@@ -4,6 +4,7 @@
 
 
 Over 3 days, i cleaned and explored the FIFA dataset to find cool patterns, player trends, and some hidden gems. we grouped data by player skills, body stats, club detials, etc., then dove deep into club, leagues and international analysis.
+- [Read the Medium about project](https://medium.com/@paudelsamir/kicking-off-my-first-eda-fifa-edition-ae6fa0ca6061)
 
 ### What I Found ??
 
@@ -43,6 +44,8 @@ Over 3 days, i cleaned and explored the FIFA dataset to find cool patterns, play
 
 
 ## Advanced Resources
+
+- [Read the Medium about project]()
 - [Kaggle FIFA Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)
 
 

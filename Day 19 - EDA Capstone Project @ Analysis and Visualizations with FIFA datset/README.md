@@ -1,5 +1,5 @@
 # Day 19: Data Vizulaization on FIFA Dataset:
-
+- [Read the Medium about project](https://medium.com/@paudelsamir/kicking-off-my-first-eda-fifa-edition-ae6fa0ca6061)
 ## Topics Covered
 
 - Data Visualization
@@ -15,3 +15,4 @@
 
 - Visualized key statistics and trends using Matplotlib and Seaborn
 - Performed statistical analysis to derive insights from the data
+

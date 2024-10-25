@@ -1,5 +1,5 @@
 # Day 18: Preprocessing with FIFA Dataset:
-
+- [Read the Medium about project](https://medium.com/@paudelsamir/kicking-off-my-first-eda-fifa-edition-ae6fa0ca6061)
 ## Topics Covered
 Data Cleaning on FIFA Dataset
 
