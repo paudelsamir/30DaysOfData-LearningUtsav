@@ -32,6 +32,6 @@
 - ✅Understood different types of ML and their real-life applications
 ### ML Approach:
 ![figure](images/mlapproach.png)
-### Resources
+### Resources 
 - Book: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron (Chapter 1)
 - Video: [Concepts](https://www.youtube.com/watch?v=ukzFI9rgwfU)
