@@ -1,6 +1,7 @@
 ### Day 27 - Model Training
 
-![Model Training](img/model_training.png)
+![Model Training](img/top_features.png)
+![Model Training](img/confusion_matrix.png)
 
 **Completed**:
 - Transformed text data using vectorization methods (Bag of Words and/or TF-IDF).
