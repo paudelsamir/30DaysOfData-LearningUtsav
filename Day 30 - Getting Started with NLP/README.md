@@ -1,7 +1,7 @@
-# Day 29 - Getting Started with Natural Language Processing (NLP) in Python
+# Day 30 - Getting Started with Natural Language Processing (NLP) in Python
 
 ## Overview
-On Day 29, we introduced the fundamentals of Natural Language Processing (NLP) using Python and the Natural Language Toolkit (NLTK). The session covered essential NLP concepts, explored various corpora, and implemented basic text processing tasks to lay the groundwork for more advanced techniques.
+On Day 30, we introduced the fundamentals of Natural Language Processing (NLP) using Python and the Natural Language Toolkit (NLTK). The session covered essential NLP concepts, explored various corpora, and implemented basic text processing tasks to lay the groundwork for more advanced techniques.
 
 ## Topics Covered
 
