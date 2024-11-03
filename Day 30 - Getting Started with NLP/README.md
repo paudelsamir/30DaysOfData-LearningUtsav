@@ -53,4 +53,4 @@ On Day 30, we introduced the fundamentals of Natural Language Processing (NLP) u
 - **Statistical Insights:** Learned about word frequency distributions and their implications in language processing.
 
 ## Next Steps
-- **We'll be preparing for the biggest challenge *200daysofDS***
+- **We'll be preparing for the biggest challenge *365daysofDS***
