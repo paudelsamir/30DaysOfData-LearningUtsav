@@ -12,3 +12,4 @@ Twitter: [@paudelxsamir](https://twitter.com/paudelxsamir)
 ## Achievements:
 In the last 30 days, I’ve learned the fundamentals of Machine Learning, including Python, data handling with Pandas, SQL basics, and data visualization. I also worked on mini projects and explored Scikit-learn and Deep Learning basics.
 
+![Certificate of completion](LearningUtsav.png)
